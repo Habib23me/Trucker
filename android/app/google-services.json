@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283362581413",
+    "firebase_url": "https://trucker-8209e.firebaseio.com",
+    "project_id": "trucker-8209e",
+    "storage_bucket": "trucker-8209e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283362581413:android:c25a12aea6e7b380",
+        "android_client_info": {
+          "package_name": "com.example.trucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283362581413-61vfi51j965rt7hksvs9i16re3tmho1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwUVqdPVat2Mr9oVAYEVlLOSHgaUIiBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
